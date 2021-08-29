@@ -1,7 +1,7 @@
 ## GOALS: 
 
-i)	to develop a strategy for the bank managers that help them in making decisions on loan approval to potential customers.
-ii)	to decide which attributes should be considered by the bank managers to access and predict the creditability of the potential customer.
+1. to develop a strategy for the bank managers that help them in making decisions on loan approval to potential customers.
+2. to decide which attributes should be considered by the bank managers to access and predict the creditability of the potential customer.
 
 ## IMPORTANCE:
 
